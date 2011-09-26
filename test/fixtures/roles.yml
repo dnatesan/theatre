@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  role: MyString
+  actor: MyString
+  play_id: 1
+
+two:
+  role: MyString
+  actor: MyString
+  play_id: 1
